@@ -1,0 +1,1 @@
+print("iam studying in sec")
